@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747462675906",
+    "project_id": "food-ptik",
+    "storage_bucket": "food-ptik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747462675906:android:b4d31f20561e3250c21a5b",
+        "android_client_info": {
+          "package_name": "com.example.ptik_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747462675906-fo7ove6heref3e5oappsjr9t1mqsjdk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6swp7RsywelHoCn-7GTzIOWswCaoHP3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747462675906-fo7ove6heref3e5oappsjr9t1mqsjdk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
